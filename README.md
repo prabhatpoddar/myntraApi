@@ -1,4 +1,4 @@
-# bankapp-mock-api
+# Myntra-mock-api
 
 #### Prerequisite
 * Create a folder
